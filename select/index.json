@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Too Sweet",
+  "base_artist": "Hozier",
+  "createdAt": "2026-02-26T16:43:55.743549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Too Sweet",
+      "artist": "Sammy Johnson",
+      "has_synced": false,
+      "path": "select/01_Never_Too_Sweet_Sammy_Johnson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You're Too Sweet",
+      "artist": "The O'Jays",
+      "has_synced": true,
+      "path": "select/02_You're_Too_Sweet_The_O'Jays.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You're Too Sweet",
+      "artist": "The O’Jays",
+      "has_synced": true,
+      "path": "select/03_You're_Too_Sweet_The_O’Jays.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/04_Too_Sweet_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hozier - Too Sweet (Official Lyric Video)",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/05_Hozier_-_Too_Sweet_(Official_Lyric_Video)_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/06_Too_Sweet_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/07_Too_Sweet_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "TOO SWEET (feat. Unknown Mortal Orchestra)",
+      "artist": "India Shawn feat. Unknown Mortal Orchestra",
+      "has_synced": true,
+      "path": "select/08_TOO_SWEET_(feat._Unknown_Mortal_Orchestra)_India_Shawn_feat._Unknown_Mortal_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "TOO SWEET (feat. Unknown Mortal Orchestra)",
+      "artist": "India Shawn",
+      "has_synced": true,
+      "path": "select/09_TOO_SWEET_(feat._Unknown_Mortal_Orchestra)_India_Shawn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/10_Too_Sweet_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/11_Too_Sweet_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/12_Too_Sweet_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hozier - Too Sweet (Official Lyric Video)",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/13_Hozier_-_Too_Sweet_(Official_Lyric_Video)_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/14_Too_Sweet_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/15_Too_Sweet_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Too Sweet (Official Video)",
+      "artist": "Hozier",
+      "has_synced": false,
+      "path": "select/16_Too_Sweet_(Official_Video)_Hozier.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Too Sweet | Bazenation.com",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/17_Too_Sweet___Bazenation.com_Hozier.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "has_synced": false,
+      "path": "select/pl_01_Too_Sweet_Hozier.txt"
+    }
+  ]
+}
